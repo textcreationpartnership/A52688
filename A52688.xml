@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words in answer to the resolves of some who are called independant-teachers whose gospel and ministry appears to depend upon tythes, or as full a maintenance secured to them by a carnal law, as appears from their own mouths in their judgements, and desires to the present rulers, delivered as followeth / by James Naylor.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52688</idno>
+            <idno type="STC">Wing N278</idno>
+            <idno type="STC">ESTC R16745</idno>
+            <idno type="EEBO-CITATION">12599426</idno>
+            <idno type="OCLC">ocm 12599426</idno>
+            <idno type="VID">64119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64119)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 769:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words in answer to the resolves of some who are called independant-teachers whose gospel and ministry appears to depend upon tythes, or as full a maintenance secured to them by a carnal law, as appears from their own mouths in their judgements, and desires to the present rulers, delivered as followeth / by James Naylor.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64119:1"/>
+            <pb facs="tcp:64119:1"/>
+            <p>A FEW WORDS in anſwer to the RESOLVES of ſome who are called <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>NDEPENDANT-TEACHERS, Whoſe Goſpel and Miniſtry appears to depend upon Tythes, or as full a maintenance ſecured to them by a Carnal Law, as appears from their own mouths in their judgements, and deſires to the preſent Rulers, delivered as followeth.</p>
+            <p>By <hi>JAMES NAYLOR.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inted for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:64119:2"/>
+            <p>
+               <hi>FIRST we judge a Parliament the best expedient for the preſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vation of theſe Nations.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The beſt expedient for the preſerving of the Nati<g ref="char:EOLhyphen"/>on, is for all people in the Nations to turn to God, that with his light you may be led to repentance and newneſs of life, that that may be done away in every heart, for which the wrath of God comes upon Nations and People, and whileſt people are out from the Light of Chriſt in their own hearts, ſuch are looking to the Hills and Mountains for ſafty and peace; ſome for Kings, and ſome for Parliaments, while wrath and luſt encreaſes in your own hearts, and it is that within you will deſtroy you, while your eyes are abroad for<g ref="char:punc">▪</g> ſafety.</p>
+            <p n="2">2. <hi>And withal we deſire all due care be taken that the Parliament be ſuch as may preſerve the interest of Christ and his people in theſe Nations.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> The chief intereſt of Chriſt in theſe Nations and elſewhere upon earth, is his ſpiritual dominion in the conſciences of people. And that there he be confeſſed to be abſolute King and Law-giver, to whom alone every heart is to bow, and every Tongue confeſle, and that the Wills and Laws of men uſurp not authority therein, but that he by his ſpirit exerciſe the conſcience in all things to God and men, and this is his intereſt which he is now demanding as his birth-right in his people, both from <hi>Kings, Parliaments</hi> and ſuch as was called <hi>Protectors,</hi> and who ever Rules amongſt men, which being denyed him, his wrath hath been kindled in their Kingdom; and it greatly concerns all that come into authority, as they look to ſtand before him, that this his Intereſt be preſerved, and this inter<g ref="char:EOLhyphen"/>eſt of his people alſo, which is to have free liberty to obey him in their conſcience in all his ſpiritual motions, though never ſo much contrary to fleſh and blood, and if the Parliament be ſuch, it muſt not be made up of old perſecutors nor new, but be men of feeling, fearing God and tender in conſcience, and above all they muſt take heed of lending an ear to the wicked Councel of ſuch Teach<g ref="char:EOLhyphen"/>ers as ſerve not the Lord Jeſus Chriſt but their own bellies, which have been the cauſe of all the blood and perſecution that hath been ſhed in this our generation, who never ceaſe to provoke the Magi<g ref="char:EOLhyphen"/>ſtrates to eſtabliſh miſchief by a law, chiefly againſt this intereſt of Chriſt and his people, of which number you appear to be in your following deſires.</p>
+            <p n="3">3. <hi>As to Magistrates power in matters of Faith and Worſhip, we
+<pb n="3" facs="tcp:64119:2"/>
+have declared our judgements in our late confeſſion, and we heartily prize our Chriſtian liberty, yet we profeſſe our utter diſlike and abborrence of an univerſal tolleration, as being contrary to the mind of God in his word.</hi>
+            </p>
+            <p>
+               <label>A.</label> What your judgment in your late confeſſion was I know not, but you might do wel to ſhew your judgment in plainnes, what this uni<g ref="char:EOLhyphen"/>verſal Toleration is wch you diſlike &amp; abhor; whether it be that you abhor that any ſhould be tollerated, but your own Sect, or ſuch as are to near you to teſtify againſt your errors, if this be it (as like it is) then it is too ſelfiſh to be ſound judgment or ſafe counſel to be followed, being againſt the rule of Chriſt, <hi>do to all men as you would be done unto,</hi> or would you have tolleration to none but ſuch as are in the true power of Spirit and true form of found words written in Scripture? this were to wipe out your ſelves, and bring in thoſe againſt whom you profeſs your enmity (in your laſt particular) to wit the <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> who at this day have both power of Spirit and Le<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er againſt you, as to both your call, your whole form of Worſhip, and the manner of your hire, being ſuch as no true Miniſters of Chriſt ever practiſed, wherein the <hi>Quakers</hi> and you differ, or do you onely in<g ref="char:EOLhyphen"/>tend againſt tolleration of open profaneneſs, which none that loves Chriſt or his intereſt will plead for, in this I am one with you, but if by Univerſal Tolleration you intend that the Magiſtrate ſhould limit the Spirit of Chriſt in any of his Creatures, becauſe his way is not your way, but againſt falſe wayes and falſe worſhips as he moves them to bear his teſtimony, as in former times he hath done in the true Prophets and Miniſters againſt the falſe, then is your Spirit ſeen to be the ſame that theirs was, who ever ſought to ſtop the Mouth of Truth, leaſt their deceit ſhould be laid open, and that is that which ever was againſt the intereſt of Chriſt, and the mind of God in his word, and it will not be an eaſie thing for men to limit the Holy Spirit in its movings, or to meaſure a way to him whoſe way you know not, fleſh and blood muſt be ſilent, which would fill a cup to another, which you would not drink your ſelves, and the Spirit muſt ſpeak ere you can know either mind or word that is in God.</p>
+            <p n="4">4. <hi>We judge that the taking away Tithes for the maintenance of Ministers until as full a maintinance equally ſecured and as Legally ſetled, and much to the diſtruction of the Ministry and Preaching of the Goſpel in theſe Nations.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> This is your judgement, and you may be believed herein, being now upon the mark you aim at, and the price of your calling
+<pb n="4" facs="tcp:64119:3"/>
+and Preaching in theſe Nations, and you do but here declare in words, what all the ſeeing people in theſe Nations did foreknow was in your hearts, but the word Goſpel you cannot bring in with this carnal ſtuff, that's taken from you, and muſt no longer cover you; what, will the Goſpel be deſtroyed for lack of Tithes, or a maintenance ſecured from a forcible Law? bluſh for ſhame, it was never known that forced hire or agreement before-hand had ever the leaſt place in the free Goſpel Miniſtry; This cannot ſtand with a ſpiritual call nor free gift, nay it exceeds the Legal prieſthood and falſe Prophets, and goes beyond <hi>Balaam</hi> in errour; what either Tithes or as full as Tithes ſo ſecured, and by the ſame law; muſt Papiſts laws up ſtill, or els the Goſpel falls? This is none of Chriſts Goſpel that thus depends, nor is this the hire of his Servants, whoſe reward it is to make the Goſpel without charge, was it ever known that any of his ſeed came to the earthly powers to beg their bread, or to take it by force; doth he thus maintain his family? doth not ſuch a ſervant ſhame the Maſters houſe? yea Friends, all who knows the power of his free Grace, and the riches of the everlaſting Goſpel denies your Goſpel that wil not fill your bellies, but muſt be kept from diſtruction with periſhing food, by a forcing carnal Law, that is not the Goſpel which is the power of God, nor was the Miniſters of the everlaſting Goſpel ſo maintained; ſearch the Scriptures and be aſhamed, and ſtop your mouth from ever pre<g ref="char:EOLhyphen"/>tending your ſelves to be Miniſters of the Spirit or of the Letter, who are gone out from both, and neither will own your words and pra<g ref="char:EOLhyphen"/>ctiſe herein, nor indeed no part of your worſhip as it now ſtands (as will be eaſily made apparent by plain Scripture upon a fair oc<g ref="char:EOLhyphen"/>caſion) but are gone after times and rewards, as your Fathers have done for many ages, who to the letter are not yet come, and yet would be maintained by a law contrary to Scripture or Saints practice.</p>
+            <p>And therefore the Parliament, if they be ſuch as would pre<g ref="char:EOLhyphen"/>ſerve Chriſts Intereſt (as you ſay) they muſt not force the Lambs of Chriſt to maintain Wolves in Sheeps Cloathing, who are now known by their Fruits, which is Chriſts Rule and Command to know them by; and this is againſt his Intereſt and the intereſt of his People, to be thus forced againſt Scripture and a pure Con<g ref="char:EOLhyphen"/>ſelence; for the Scripture tells of a Miniſtry which minded earth<g ref="char:EOLhyphen"/>ly things, whoſe God was their belly, who were Murmurers and Complainers, runing greedily after the way of <hi>Cain</hi> and Error of
+<pb n="5" facs="tcp:64119:3"/>
+               <hi>Balaam;</hi> (Mark) <hi>Cain</hi> and <hi>Balaam</hi> are put together, and theſe are againſt Chriſts Intereſt and his People; and if they who had the form of godlineſſe without the Power, were to be turned away from, then by what law muſt thoſe who are out of both be main<g ref="char:EOLhyphen"/>tained as Chriſts Miniſters under pretence of the Goſpel deſtructi<g ref="char:EOLhyphen"/>on? I know that without forced Maintenance, and fulneſſe of it, and good Security, the National Miniſtry would fall, which hangs thereon, it being their function as they call it? And ſo if any ſee their Work worth it, let ſuch hire them, and ſetting them on Work upon that account, its fit they ſhould Pay them that they la<g ref="char:EOLhyphen"/>bour for; but that ſuch as have received the Miniſtration of the free Spirit of Life which is in Chriſt Jeſus, ſhould be forced againſt his law in their Conſciences to maintain ſuch as are out of the Doctrine of Chriſt, and can do no work for them but againſt them, Or that at all this is to ſecure Chriſts Intereſt, Or that the deſtruction of the Goſpel of Truth depends thereon, that is ut<g ref="char:EOLhyphen"/>terly denied as a falſe judgement, and abſolutely againſt the Kingdom of Jeſus in his Temples, his law in their hearts, and his divine Power and Spirit by which he upholds all things per<g ref="char:EOLhyphen"/>taining to life and godlineſſe, and this were the only way for the next Parliament or Power to run themſelves againſt that Rock a<g ref="char:EOLhyphen"/>gainſt which ſo many before their eyes hath been broken, and few there be in this Nation, except ſuch as have hardened their own hearts and blinded the eye of a pure mind, but they have ſeen it; wherefore take heed you Rulers, (if it be not too late) how you medle with Chriſts Kingdom, but kiſſe the Son and yield him his Kingdom in tender Conſciences, touch not the apple of the eye which ſees that to be ſin and evil which yet you do not, of which you have often been warned; but if you will make Lawes let the Scriptures be your Rule without, and a pure Conſcience enlight<g ref="char:EOLhyphen"/>ned with the Spirit of Chriſt within, that ſo you may become tender hearted in the fear of God, that the edge of your Sword may be turned againſt open wickedneſſe, being touched with a true ſenſe of what grieves the Spirit of Chriſt in your ſelves, be<g ref="char:EOLhyphen"/>ing joyned to the Lord in one Spirit and Life, and this will be your wiſdom, the intereſt of Chriſt and his People, and from thence you will receive better Counſel and truer judgement then that which would ſtir you up to perſecute and force tender Con<g ref="char:EOLhyphen"/>ſciences againſt their faith and knowledge received of the Lord Jeſus in matters of his Worſhip, for ſerving, men of corrupt minds,
+<pb n="6" facs="tcp:64119:4"/>
+having hearts exerciſed with covetous Practiſes; who cannot ceaſe from ſin, and ſtirring up Nations to devour one another to accom<g ref="char:EOLhyphen"/>pliſh their own ends; And had not the Powers of this Nation ſaid a Confedracy to ſuch Teachers, and taken off their Counſel again which once God had diſcovered to be againſt them, and ſet them free from, then had they been eſtabliſhed in Peace in their right Authority, and Chriſt in his; and far from Oppreſſion had they been, had they abode in Gods Teachings, their hearts had been kept tender, and that eye open which would have given them a ſight towards the helpleſſe who have been waſted through the Oppreſſor, from whom they ſhould have been ſet free, whoſe blood now lyes upon the Nations, for which is now enquiry making:</p>
+            <p n="5">5. <hi>It is our deſire that countenance be not given unto, nor truſt repo<g ref="char:EOLhyphen"/>ſed in the hand of</hi> Quakers, <hi>being perſons of ſuch Principles that are de<g ref="char:EOLhyphen"/>ſtructive to the Goſpel, and inconſistent with Peace and Civil Society.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> As for your deſire that we ſhould not have the Coun<g ref="char:EOLhyphen"/>tenance of men, we ſay the Light of Gods Countenance is much better, and we cannot look for both while men take your Coun<g ref="char:EOLhyphen"/>ſel; and our truſt is in God, in whoſe hand we are and not in our own, and from men we may not ſeek repoſe, better it is (for the preſent) to Suffer with Chriſt then to reign in your kingdom, or be honored with your Glory; ſo in Patience ſtands our Peace with God, even whilſt our Names are caſt out as evil with men; But for your Accuſation of our Perſons and Principles to be Deſtructive to the Goſpel and Civil Society, take that back again to your ſelves; our Perſons we boaſt not in, but our Principles are Truth grounded upon the Light of Jeſus and leadings of his holy Spirit, and whatever is contrary we condemne, and this we certainly know will never be deſtructive to Chriſts Goſpel, onely your Goſpel it will deſtroy whoſe foundation ſtands not upon the power of the Spirit of Jeſus, but upon Tythes or ſome ſetled Maintenance car<g ref="char:EOLhyphen"/>nal, as full, as ſecure, by a carnal law, elſe it is lyable to deſtruction as your ſelves confeſſe; And this know, that your Goſpel that muſt needs be deſtroyed if Tythes fall, is not that Goſpel which the Apo<g ref="char:EOLhyphen"/>ſtles preached, for that Goſpel begun moſt of all to flouriſh when Tythes went down, the Prieſthood that received them, and the law that gave them, which you may read of in the Apoſtles Epiſtle to the <hi>Hebrews,</hi> (which law never took tythes by force as the Papiſts law did) And now you have often ſaid, That whoſoever preaches another Goſpel let him be accurſed; So take heed that your own
+<pb n="7" facs="tcp:64119:4"/>
+words condemne you not, and your own Weapon pierce not your own bowels, for the Lord hath heard your words; and this we know, That the Goſpel of Chriſt which the Apoſtles preached was upheld by the Power of an endleſſe life, by which they was alſo made able Miniſters and did not fall when Tythes fell, but then ſo much the more flouriſhed, into ſuch bounty, that the publiſhers thereof who had nothing did in it enjoy all things, which Goſpel both your words and your actions declare daily you live not on, but like men who have loſt the Counſel of God you act both con<g ref="char:EOLhyphen"/>trary to Law and Goſpel; was not this the Counſel of God in the time of the Law when the Prieſts had only. Tythes to live on, that then they ſhould have no Magiſtrate to force them, but freely they was to bring their Offerings that ſo he might engage the Prieſt to himſelf who was his portion, and then they never wanted while they kept the word and their lips preſerved knowledge in the peo<g ref="char:EOLhyphen"/>ple, but when the Prieſts forgot God, then like people, and then they juſtly wanted as God had ſaid; and would you now have the Magiſtrate to make a Law to take peoples goods and give to ſuch as do not firſt beget people to God? is this to live on the Goſ<g ref="char:EOLhyphen"/>pel, or to eat of your own fruits as Chriſts Miniſters do and ever did? thus may the Magiſtrate do for a while, and oppreſſe the in<g ref="char:EOLhyphen"/>nocent againſt the Lord, to feed the fat and idle, but the account is at hand in which it will be ſaid, <hi>Did I require it at your hands? am not I of power to maintain my own Servants who have the hearts of all in my hands? Or what Lawes will you make for me who never made uſe of any in this caſe but the Law of Love to be fulfilled in a free Spirit, for in the Houſhold of Chriſt is no ſtrife about Carnal things;</hi> And that Principle is deſtructive to the Goſpel of Peace which admits of ſtrife about their bellies, or framing miſchief againſt another by a Law to fill themſelves. And whereas you ſay our Principles are inconſiſtent with Peace and civil Society, to you it is ſaid, Whom have we made War with (after the manner of men) though after Chriſt and his Servants we War againſt Spiritual wickedneſſe daily, both in Teachers and People, not to deſtroy their bodies and goods as we have been deſtroyed daily, and are appointed to death upon all hands, yet we have Peace with God in this, That our hearts are with him for Mercy and Salvation to ſuch as yet ſeek our deſtruction and hate us without Cauſe, except teſtifying againſt ſin and falſe worſhips be Cauſe; And our Society is in that which is truly Civil, and civil we are when we are amongſt our
+<pb n="8" facs="tcp:64119:5" rendition="simple:additions"/>
+own, and towards the Creation of God; and if at any time wild Beaſts we be amongſt, and ſuch as are in the wanton and uncivil Nature, we have little Society with them further then to reclaim them or to teſtifie againſt them as we are moved of the Lord; and if this you call uncivil, or becauſe we cannot obſerve your cuſtoms of Pride, and faſhions of Vanity, then we account it better for us to endure your Reviling and Reproach, then the eternal judgment of the Lord who hath called us out of theſe things.</p>
+            <p>And now you pretended Teachers, you are found out of Chriſts Doctrine, and you have not yet received his teaching, who ſaith, <hi>Take no thought for to morrow what you ſhall eat, or for Cloathing what to put on, nor are you Taught of him who ſaith, Seek firſt the kingdom of God and the righteouſneſs thereof, and all theſe things ſhall be added unto you:</hi> Now out of this faith you are found, and ſo out of the faith of Chriſt, and untaught you are of this Teacher, and how ſhould you teach others; and your foundation is not the founda<g ref="char:EOLhyphen"/>tion of God, who ſay firſt Tythes or ſomething as full made ſure, and then you will build and your Goſpel will ſtand, or elſe it will be deſtroyed; ſo your foundation is ſandy and dirty, and not the foundation of God which ſtands ſure, on which the Prophets and Apoſtles was built, who never took Tithes or ſet maintenance to bottome on, but ſaid the Prieſthood was changed, and of neceſ<g ref="char:EOLhyphen"/>ſity there muſt be alſo a change of the Law. So theſe called not for a Law from man, nor made fleſh their arm, nor carnal things their ſupport as you do, ſo of this error you muſt repent, and come to their ſpirit to be taught, which depends upon God alone, and not on the World, elſe ceaſe calling your ſelves Independant, or ſaying you are ſent out by Chriſt Jeſus who hang upon the earthly power for food and ſafety.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
